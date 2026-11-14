@@ -1,0 +1,9 @@
+{
+  "scrapers": [
+    {
+      "name": "HQPorner",
+      "urlPattern": "hqporner.com"
+    }
+  ],
+  "file": "hqporner.js"
+}
